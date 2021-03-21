@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+*.sln
+
+.vs/
+Debug/
+multithreshold-otsu-method/
