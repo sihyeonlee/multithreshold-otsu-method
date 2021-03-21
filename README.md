@@ -1,6 +1,6 @@
 # Two-Stage Otsu's Method(TSMO)
 
-Implementation of the method [describend in](www.ijicic.org/ijicic-10-05033.pdf):
+Implementation of the method [describend in](http://www.ijicic.org/ijicic-10-05033.pdf):
 
 ```
 Huang, D. Y., Lin, T. W., & Hu, W. C. (2011).
